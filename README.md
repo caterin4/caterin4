@@ -8,7 +8,7 @@ and I am starting to know a little bit about this world of coding...
 
 ### 📫 How to reach me
 
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/caterinadovalletrotta/)](https://www.linkedin.com/in/caterinadovalletrotta/) <div class="badge-base LI-profile-badge" data-locale="pt_BR" data-size="medium" data-theme="light" data-type="VERTICAL" data-vanity="caterinadovalletrotta" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://br.linkedin.com/in/caterinadovalletrotta?trk=profile-badge">Caterina do Valle Trotta</a></div>
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/caterinadovalletrotta/)](https://www.linkedin.com/in/caterinadovalletrotta/)
               
 - Thanks for visiting!
 
