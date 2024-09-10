@@ -1,9 +1,9 @@
 # Welcome
 
 My name is Caterina 
-🌱 I am a biologist, graduated at Unesp IB/CLP
-I’m a master student in Biodiversity of Coastal Environment at Unesp IB/CLP
-and I am starting to know a little bit about this world of coding...
+🌱 I am a biologist
+🎓 Master in Biodiversity of Coastal Environments at Unesp IB/CLP
+📖 Starting to know a little bit about this world of coding...
 - I'm open to learn and collaborate in whatever I can!
 
 ### 📫 How to reach me
