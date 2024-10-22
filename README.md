@@ -2,7 +2,7 @@
 
 My name is Caterina 
 🌱 I am a biologist
-🎓 Master in Biodiversity of Coastal Environments at Unesp IB/CLP
+🎓 Master of Sciences at Unesp IB/CLP
 📖 Starting to know a little bit about this world of coding...
 - I'm open to learn and collaborate in whatever I can!
 
